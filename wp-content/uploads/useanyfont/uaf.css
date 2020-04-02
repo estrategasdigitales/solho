@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'Existence';
+				font-style: normal;
+				src: url('//blancoco.mx/wp-content/uploads/useanyfont/150902121658Existence.eot');
+				src: local('Existence'), url('//blancoco.mx/wp-content/uploads/useanyfont/150902121658Existence.eot') format('embedded-opentype'), url('//blancoco.mx/wp-content/uploads/useanyfont/150902121658Existence.woff') format('woff');
+			}
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'Existence' !important;
+				}
+		

@@ -1,0 +1,2 @@
+2020-01-26T01:20:23+00:00 CRITICAL Call to undefined method QLWCDC_PRO_Products::get_product_option() en /Applications/MAMP/htdocs/rules/wp-content/plugins/woocommerce-direct-checkout-pro/includes/products.php en la línea 60
+

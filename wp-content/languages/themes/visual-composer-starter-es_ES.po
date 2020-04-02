@@ -1,0 +1,1747 @@
+# Translation of Themes - Visual Composer Starter in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Visual Composer Starter package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-23 21:50:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Visual Composer Starter\n"
+
+#. Description of the theme
+msgid "Visual Composer Starter theme designed to be a perfect companion for a simple and good looking website."
+msgstr "El tema Visual Composer Starter está diseñado para ser un compañero perfecto para una web simple y de buen aspecto."
+
+#. Theme Name of the theme
+msgid "Visual Composer Starter"
+msgstr "Visual Composer Starter"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin obligatorio está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins obligatorios están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para garantizar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins deben actualizarse a la versión más reciente para garantizar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/order/order-details.php:103
+msgid "Note:"
+msgstr "Nota:"
+
+#: woocommerce/order/order-details.php:54
+msgid "Date:"
+msgstr "Fecha:"
+
+#: woocommerce/order/order-details.php:50
+msgid "Order number:"
+msgstr "Número de pedido:"
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr "Detalles del pedido"
+
+#: woocommerce/order/order-details-customer.php:85
+msgid "Postal Code"
+msgstr "Código postal"
+
+#: woocommerce/order/order-details-customer.php:61
+msgid "Address"
+msgstr "Dirección"
+
+#: woocommerce/order/order-details-customer.php:55
+msgid "Country"
+msgstr "País"
+
+#: woocommerce/order/order-details-customer.php:49
+msgid "Company"
+msgstr "Empresa"
+
+#: woocommerce/order/order-details-customer.php:43
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: woocommerce/order/order-details-customer.php:37
+msgid "Phone"
+msgstr "Teléfono"
+
+#: woocommerce/order/order-details-customer.php:31
+msgid "Name, Surname"
+msgstr "Nombre, Apellidos"
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "Edit"
+msgstr "Editar"
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr "Aún no has configurado este tipo de dirección."
+
+#: woocommerce/myaccount/my-address.php:43
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "Por defecto, se usarán las siguientes direcciones en la página de pago."
+
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping address"
+msgstr "Dirección de envío"
+
+#: woocommerce/order/order-details-customer.php:24
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing address"
+msgstr "Dirección de facturación"
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Cantidad"
+
+#. translators: %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr "%s cantidad"
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Back to the Site"
+msgstr "Volver al sitio"
+
+#: woocommerce/checkout/thankyou.php:44 woocommerce/checkout/thankyou.php:65
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Hemos recibido tu pedido."
+
+#: woocommerce/checkout/thankyou.php:35
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "Desafortunadamente, tu pedido no puede procesarse ya que el banco/comercio ha rechazado tu transacción. Por favor, intenta la compra de nuevo."
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Order summary"
+msgstr "Resumen del pedido"
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "Debes iniciar una sesión para realizar el pago."
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr "Actualizar carrito"
+
+#: woocommerce/cart/cart.php:138 woocommerce/checkout/form-coupon.php:32
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+#: woocommerce/cart/cart.php:138 woocommerce/checkout/form-coupon.php:28
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr "Cupón:"
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr "Disponible con pre-compra"
+
+#: woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr "Eliminar este artículo"
+
+#. translators: %s: Quantity.
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:102
+#: woocommerce/global/quantity-input.php:28
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:96
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:76
+#: woocommerce/order/order-details-item.php:30
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart-totals.php:113 woocommerce/cart/cart-totals.php:114
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:120
+#: woocommerce/checkout/review-order.php:107
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/cart/cart-totals.php:83
+msgid "(estimated for %s)"
+msgstr "(estimado para %s)"
+
+#: woocommerce/cart/cart-totals.php:67 woocommerce/cart/cart-totals.php:68
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/cart/cart-totals.php:45 woocommerce/cart/cart-totals.php:46
+#: woocommerce/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/cart/cart-totals.php:37
+#: woocommerce/checkout/form-checkout.php:62
+msgid "Apply"
+msgstr "Aplicar"
+
+#: woocommerce/cart/cart-totals.php:33
+#: woocommerce/checkout/form-checkout.php:58
+msgid "Got promo code?"
+msgstr "¿Tienes un código promocional?"
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Order Summary"
+msgstr "Resumen de pedido"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1311
+msgid "Color for \"X\" icon in cart, cart widgets etc."
+msgstr "Color del icono \"X\" en el carrito, widgets del carrito, etc."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1310
+msgid "Delete icon color"
+msgstr "Color del icono Borrar"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1293
+msgid "Color for links hover in sidebar widgets."
+msgstr "Color de los enlaces al pasar el cursor en los widgets de la barra lateral."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1292
+msgid "Widget link hover color"
+msgstr "Color de los enlaces de los widgets al pasar el cursor"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1275
+msgid "Color for links in sidebar widgets."
+msgstr "Color de los enlaces en los widgets de la barra lateral."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1274
+msgid "Widget link color"
+msgstr "Color de enlace de widget"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1256
+msgid "Color for price filter widget range bar."
+msgstr "Color de la barra de desplazamiento del widget de filtrado de precios."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1255
+msgid "Price filter color"
+msgstr "Color del filtro de precios"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1237
+msgid "Outline button color"
+msgstr "Color del contorno del botón"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1219
+msgid "Color for active tab."
+msgstr "Color de la pestaña activa."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1218
+msgid "Active tab color"
+msgstr "Color de la pestaña activa"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1201
+msgid "Link hover color"
+msgstr "Color de los enlaces al pasar el cursor"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1184
+msgid "Color for links like categories, tabs links etc."
+msgstr "Color de los enlaces como enlaces de categorías, pestañas, etc."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1183
+msgid "Secondary link color"
+msgstr "Color de enlace secundario"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1165
+msgid "Color for each items old price, in case there is a discount set."
+msgstr "Color del precio antiguo de cada artículo, en caso de que haya un descuento."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1164
+msgid "Old price tag color"
+msgstr "Color de la etiqueta de precio antiguo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1146
+msgid "Color for each items price tag."
+msgstr "Color de la etiqueta de precio de cada artículo."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1145
+msgid "Price tag color"
+msgstr "Color de la etiqueta de precio"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1127
+msgid "Color for \"On Sale\" badge that is appearing on product image."
+msgstr "Color de la etiqueta \"Oferta\" que aparece en la imagen del producto."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1126
+msgid "On sale badge color"
+msgstr "Color de la etiqueta de oferta"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1108
+msgid "If enabled, this show will leave the coupon form always open."
+msgstr "Si se activa, el formulario de cupones permanecerá siempre abierto."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1107
+msgid "Always open coupon form"
+msgstr "Abrir siempre el formulario de cupones"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1087
+msgid "Color for header cart text color."
+msgstr "Color de texto del carrito de la cabecera."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1086
+msgid "Cart icon text color"
+msgstr "Color del texto del icono del carrito"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1069
+msgid "Color for header cart icon color."
+msgstr "Color del icono del carrito de la cabecera."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1068
+msgid "Cart icon color"
+msgstr "Color del icono del carrito"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1050
+msgid "If enabled, this show the cart icon right next to the main menu."
+msgstr "Si se activa, se mostrará el icono del carrito justo al lado del menú principal."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1049
+msgid "Cart Icon"
+msgstr "Icono de carrito"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1030
+msgid "Visual Composer Starter Theme"
+msgstr "Tema Visual Composer Starter"
+
+#: functions.php:1656
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Etiqueta:"
+msgstr[1] "Etiquetas:"
+
+#: functions.php:1646
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categoría:"
+msgstr[1] "Categorías:"
+
+#: functions.php:109 functions.php:160
+msgid "Default"
+msgstr "Predeterminado"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, tu búsqueda no ha devuelto ningún resultado. Por favor, inténtalo de nuevo usando palabras diferentes."
+
+#. translators: 1. link opening tag, 2. link closing tag
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "¿Listo para publicar tu primera entrada? %1$sEmpieza aquí%2$s."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: template-parts/content-gallery.php:48 template-parts/content.php:26
+#: template-parts/content-video.php:27
+msgid "Read More"
+msgstr "Seguir leyendo"
+
+#: single.php:51
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: single.php:51
+msgid "Next"
+msgstr "Siguiente"
+
+#: single.php:41
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:41
+msgid "Previous"
+msgstr "Anterior"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#. translators: %s: search query string
+#: search.php:19
+msgid "Search Results for %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Se han completado todas las instalaciones."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s se ha instalado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Se está iniciando el proceso de instalación. Este proceso puede alargarse dependiendo del servidor, por favor, ten paciencia."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Se han completado todas las instalaciones y activaciones."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Se están iniciando los procesos de instalación y activación. Estos procesos pueden alargarse dependiendo del servidor, por favor, ten paciencia."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Ha fallado la instalación de %1$s."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No has seleccionado ningún plugin para activar. No se ha ejecutado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No has seleccionado ningún plugin para actualizar. No se ha ejecutado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No has seleccionado ningún plugin para instalar. No se ha ejecutado ninguna acción."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version mínima requerida:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para Activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización Disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendable"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No se ha instalado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetados"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Directorio de WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatorio"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto de plugin contiene más de un archivo, pero estos no están empaquetados en una carpeta."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, contacta con los desarrolladores del plugin y pídeles que lo empaqueten de acuerdo con las directrices de WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete del plugin remoto no contiene una carpeta con el slug necesario y renombrarlo no ha funcionado."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita actualizarse para que sea compatible con el tema."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacta con el administrador de este sitio para recibir ayuda."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o varios plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Ignorar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin no activado. Para este tema es necesaria una versión superior de %s. Por favor actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins obligatorios"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar los plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Ha habido un fallo en la API de plugins."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar plugins obligatorios"
+
+#: inc/template-tags.php:283
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está a la espera de ser aprobado."
+
+#: inc/template-tags.php:281
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:279
+msgid "On %1$s at %2$s"
+msgstr "El %1$s a las %2$s"
+
+#. translators: 1: comment author, 2: span opening tag, 3. span closing tag
+#: inc/template-tags.php:273
+msgid "%1$s %2$s says: %3$s"
+msgstr "%1$s %2$s dice: %3$s"
+
+#: inc/template-tags.php:225
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: inc/template-tags.php:210
+msgctxt "Post meta"
+msgid "to"
+msgstr "a"
+
+#: inc/template-tags.php:205
+msgctxt "Post meta"
+msgid "by"
+msgstr "por"
+
+#: inc/template-tags.php:197
+msgctxt "Post meta"
+msgid "On"
+msgstr "En"
+
+#: inc/template-tags.php:173 comments.php:21
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: inc/template-tags.php:173
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: inc/template-tags.php:173
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:169 inc/template-tags.php:211
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:136
+msgid "%1$sPosted on%2$s %3$s"
+msgstr "%1$sPublicado en%2$s %3$s"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:203
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:202
+msgid "Latin Extended"
+msgstr "Latin extendido"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:201
+msgid "Latin"
+msgstr "Latin"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:200
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:199
+msgid "Greek Extended"
+msgstr "Griego extendido"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:198
+msgid "Greek"
+msgstr "Griego"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:197
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:196
+msgid "Cyrillic Extended"
+msgstr "Cirílico extendido"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:195
+msgid "Cyrillic"
+msgstr "Cirílico"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:194
+msgid "All"
+msgstr "Todos"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:108
+msgctxt "font style"
+msgid "Verdana, Geneva, sans-serif"
+msgstr "Verdana, Geneva, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:104
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica, sans-serif"
+msgstr "Trebuchet MS, Helvetica, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:100
+msgctxt "font style"
+msgid "Times New Roman, Times, serif"
+msgstr "Times New Roman, Times, Serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:96
+msgctxt "font style"
+msgid "Tahoma, Geneva, sans-serif"
+msgstr "Tahoma, Geneva, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:92
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino, serif"
+msgstr "Palatino Linotype, Book Antiqua, Palatino, Serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:88
+msgctxt "font style"
+msgid "MS Serif, New York, sans-serif"
+msgstr "MS Serif, New York, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:84
+msgctxt "font style"
+msgid "MS Sans Serif, Geneva, sans-serif"
+msgstr "MS Sans Serif, Geneva, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:80
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande, sans-serif"
+msgstr "Lucida Sans Unicode, Lucida Grande, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:76
+msgctxt "font style"
+msgid "Lucida Console, Monaco, monospace"
+msgstr "Lucida Console, Monaco, monoespacio"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:72
+msgctxt "font style"
+msgid "Impact, Charcoal, sans-serif"
+msgstr "Impact, Charcoal, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:68
+msgctxt "font style"
+msgid "Georgia, serif"
+msgstr "Georgia, Serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:64
+msgctxt "font style"
+msgid "Garamond, serif"
+msgstr "Garamond, Serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:60
+msgctxt "font style"
+msgid "Courier, monospace"
+msgstr "Courier, monoespacio"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:56
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:52
+msgctxt "font style"
+msgid "Bookman Old Style, serif"
+msgstr "Bookman Old Style, serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:48
+msgctxt "font style"
+msgid "Arial Black, Gadget, sans-serif"
+msgstr "Arial Black, Gadget, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:44
+msgctxt "font style"
+msgid "Arial, Helvetica, sans-serif"
+msgstr "Arial, Helvetica, sans-serif"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:29
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer/class-visualcomposerstarter-fonts.php:23
+msgid "Standard Fonts"
+msgstr "Fuentes estándar"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2626
+msgid "Text Hover Color"
+msgstr "Color de texto al pasar el cursor"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2614
+msgid "Background Hover Color"
+msgstr "Color de fondo al pasar el cursor"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2424
+msgid "Active color that will be applied to links and bullets."
+msgstr "Color activo que se aplicará a los enlaces y viñetas."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2411
+msgid "Secondary text color will be applied to block quotes, image captions, etc."
+msgstr "El color de texto secundario se aplicará a las citas, leyendas de las imágenes, etc."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2410
+msgid "Secondary Color"
+msgstr "Color secundario"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2398
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1482
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1653
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1815
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1984
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2152
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2324
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2513
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2715
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1481
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1652
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1814
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1983
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2151
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2323
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2512
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2714
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1480
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1651
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1813
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1982
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2150
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2322
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2511
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2713
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1474
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1645
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1807
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1976
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2144
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2316
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2505
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2707
+msgid "Capitalization"
+msgstr "Capitalización"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1468
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1639
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1801
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1970
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2138
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2309
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2499
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2701
+msgid "Margin Bottom"
+msgstr "Margen inferior"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1462
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1633
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1795
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1964
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2132
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2302
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2493
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2695
+msgid "Margin Top"
+msgstr "Margen superior"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1456
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1627
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1789
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1958
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2126
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2295
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2487
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2689
+msgid "Letter Spacing"
+msgstr "Espaciado entre letras"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1450
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1620
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1782
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1951
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2119
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2288
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2480
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2682
+msgid "Line Height"
+msgstr "Altura de línea"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1444
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1613
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1775
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1944
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2112
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2281
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2473
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2675
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1440
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1608
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1770
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1939
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2107
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2276
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2468
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2670
+msgid "Inherit"
+msgstr "Heredar"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1439
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1607
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1769
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1938
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2106
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2275
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2467
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2669
+msgid "Oblique"
+msgstr "Oblicua"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1438
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1606
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1768
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1937
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2105
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2274
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2466
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2668
+msgid "Italic"
+msgstr "Cursiva"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1432
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1600
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1762
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1931
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2099
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2268
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2460
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2662
+msgid "Font Style"
+msgstr "Estilo de fuente"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1428
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1595
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1758
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1927
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2095
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2263
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2456
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2658
+msgid "Bold"
+msgstr "Negrita"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1427
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1594
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1757
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1926
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2094
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2262
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2455
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2657
+msgid "Semi-Bold"
+msgstr "Semi negrita"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1426
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1437
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1593
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1605
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1756
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1767
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1925
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1936
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2093
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2104
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2261
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2273
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2454
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2465
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2656
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2667
+msgid "Normal (default)"
+msgstr "Normal (por defecto)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1420
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1587
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1750
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1919
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2087
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2255
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2448
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2650
+msgid "Font Weight"
+msgstr "Grosor de fuente"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1413
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1579
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1743
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1911
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2079
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2247
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2440
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2642
+msgid "Google Fonts Subsets"
+msgstr "Subconjuntos de Google Fonts"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1406
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1571
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1736
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1903
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2071
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2239
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2432
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2634
+msgid "Font-family"
+msgstr "Familia de fuente"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1388
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1551
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1718
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1883
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2051
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2219
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:989
+msgid "Buttons"
+msgstr "Botones"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:983
+msgid "Body"
+msgstr "Cuerpo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:977
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:971
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:965
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:959
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:953
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:947
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:928
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:916
+msgid "Github"
+msgstr "Github"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:904
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:892
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:880
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:868
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:856
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:844
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:832
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:820
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:757
+msgid "Add url to your social network profiles."
+msgstr "Añade URLs de tus perfiles en redes sociales."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:756
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:744
+msgid "Four"
+msgstr "Cuatro"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:743
+msgid "Three"
+msgstr "Tres"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:742
+msgid "Two"
+msgstr "Dos"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:741
+msgid "One"
+msgstr "Uno"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:736
+msgid "Widget area can be divided into up to four columns."
+msgstr "El área de widgets se puede dividir en hasta cuatro columnas."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:735
+msgid "Number of Columns"
+msgstr "Número de columnas"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:723
+msgid "Theme footer allows inserting widget area at the top of the footer."
+msgstr "El pie de página del tema permite insertar una área de widgets en la parte superior del pie de página."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:722
+msgid "Widget Area"
+msgstr "Área de widgets"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:709
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1399
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1563
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1729
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1895
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2063
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2231
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2423
+msgid "Active Color"
+msgstr "Color activo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:685
+msgid "Footer Background Color"
+msgstr "Color del fondo del pie de página"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:631
+msgid "Sandwich Icon Color"
+msgstr "Color del icono del sándwich"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:620
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1425
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1592
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1755
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1924
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2092
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2260
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2453
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2655
+msgid "Light"
+msgstr "Claro"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:619
+msgid "Dark (default)"
+msgstr "Oscuro (por defecto)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:615
+msgid "Define sandwich background and control style."
+msgstr "Define el fondo y el estilo de control del sándwich."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:614
+msgid "Sandwich Style"
+msgstr "Estilo del sándwich"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:601
+msgid "If set to 'On' header will stay fixed on the top when scrolling."
+msgstr "Si se activa, la cabecera permanecerá fija en la parte superior cuando se haga scroll."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:600
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:587
+msgid "By default header will be placed on the top of featured image."
+msgstr "Por defecto, la cabecera se colocará encima de la imagen destacada."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:586
+msgid "Reserve Space For Header"
+msgstr "Reservar espacio para la cabecera"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:573
+msgid "Header Padding"
+msgstr "Relleno de la cabecera"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:561
+msgid "Active Text Color"
+msgstr "Color de texto activo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:549
+#: inc/customizer/class-visualcomposerstarter-customizer.php:697
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2602
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:537
+msgid "Submenu Background Hover Color"
+msgstr "Color de fondo del submenú al pasar el cursor"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:525
+msgid "Define header and submenu background color."
+msgstr "Define el color de fondo de la cabecera y el submenú."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:524
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2590
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:512
+msgid "Full width boxed"
+msgstr "Ancho completo en caja"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:507
+msgid "Header Width"
+msgstr "Ancho de la cabecera"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:495
+msgid "Sandwich"
+msgstr "Sándwich"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:494
+msgid "Top (default)"
+msgstr "Arriba (predeterminado)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:490
+msgid "Header Style"
+msgstr "Estilo de la cabecera"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:329
+#: inc/customizer/class-visualcomposerstarter-customizer.php:513
+msgid "Full width"
+msgstr "Ancho completo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:328
+#: inc/customizer/class-visualcomposerstarter-customizer.php:511
+msgid "Boxed (default)"
+msgstr "En caja (predeterminado)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:324
+msgid "Default content area size is defined as Boxed and Full width."
+msgstr "El tamaño predeterminado del área de contenido se define como «En caja» y «Ancho completo»."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:323
+msgid "Content Area Size Customization"
+msgstr "Personalización del tamaño del área de contenido"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:411
+msgid "Comments Background"
+msgstr "Fondo de los comentarios"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:399
+msgid "Content Background"
+msgstr "Fondo del contenido"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:390
+msgid "Site Background"
+msgstr "Fondo del sitio"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:377
+msgid "Archive/Category Sidebar Position"
+msgstr "Posición de la barra lateral de los archivos/categorías"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:359
+msgid "Post Sidebar Position"
+msgstr "Posición de la barra lateral de las entradas"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:345
+#: inc/customizer/class-visualcomposerstarter-customizer.php:363
+#: inc/customizer/class-visualcomposerstarter-customizer.php:381
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1479
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1650
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1812
+#: inc/customizer/class-visualcomposerstarter-customizer.php:1981
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2149
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2321
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2510
+#: inc/customizer/class-visualcomposerstarter-customizer.php:2712
+msgid "None (default)"
+msgstr "Ninguno (predeterminado)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:341
+msgid "Page Sidebar Position"
+msgstr "Posición de la barra lateral de las páginas"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:310
+msgid "Please specify featured image height in pixels (ex. 400px)."
+msgstr "Por favor, especifica la altura de la imagen destacada en píxeles (ej. 400px)."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:309
+msgid "Custom Height"
+msgstr "Altura personalizada"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:298
+msgid "Custom"
+msgstr "Personalizado"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:297
+msgid "Full height"
+msgstr "Altura completa"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:296
+msgid "Auto (default)"
+msgstr "Auto (predeterminado)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:292
+msgid "Featured Image Height"
+msgstr "Altura de la imagen destacada"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:280
+msgid "Boxed"
+msgstr "En caja"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:279
+msgid "Full width (default)"
+msgstr "Ancho completo (predeterminado)"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:275
+msgid "Featured Image Width"
+msgstr "Ancho de la imagen destacada"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:262
+msgid "Show featured image for posts and pages."
+msgstr "Mostrar imagen destacada para entradas y páginas."
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:261
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:249
+msgid "Disable Theme Footer"
+msgstr "Desactivar el pie de página del tema"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:237
+msgid "Disable Theme Header"
+msgstr "Deactivar cabecera de tema"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:83
+msgid "Fonts & Style"
+msgstr "Fuentes y estilo"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:75
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:70
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/class-visualcomposerstarter-customizer.php:65
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: header.php:43
+msgid "Toggle navigation"
+msgstr "Alternar navegación"
+
+#: functions.php:613
+msgid "Footer Widget Column 4"
+msgstr "Área de widgets a pie de página 4"
+
+#: functions.php:597
+msgid "Footer Widget Column 3"
+msgstr "Área de widgets a pie de página 3"
+
+#: functions.php:581
+msgid "Footer Widget Column 2"
+msgstr "Área de widgets a pie de página 2"
+
+#: functions.php:567 functions.php:583 functions.php:599 functions.php:615
+msgid "Add widgets here to appear in your footer."
+msgstr "Añade aquí los widgets que quieres que aparezcan en tu pie de página."
+
+#: functions.php:565
+msgid "Footer Widget Column 1"
+msgstr "Área de widgets a pie de página 1"
+
+#: functions.php:551
+msgid "Add widgets here to appear in menu area."
+msgstr "Añade aquí los widgets que quieres que aparezcan en tu área de menú."
+
+#: functions.php:549
+msgid "Menu Area"
+msgstr "Área de menú"
+
+#: functions.php:539
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Añade widgets aquí para que aparezcan en la barra lateral."
+
+#: functions.php:537
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:171
+msgid "Hide Post Title"
+msgstr "Ocultar el título de la entrada"
+
+#: functions.php:151
+msgid "Post Options"
+msgstr "Opciones de entrada"
+
+#: functions.php:124 functions.php:175 functions.php:207 functions.php:219
+#: functions.php:233 functions.php:245
+msgid "Yes"
+msgstr "Sí"
+
+#: functions.php:120
+msgid "Hide Page Title"
+msgstr "Ocultar el título página"
+
+#: functions.php:112 functions.php:163
+#: inc/customizer/class-visualcomposerstarter-customizer.php:347
+#: inc/customizer/class-visualcomposerstarter-customizer.php:365
+#: inc/customizer/class-visualcomposerstarter-customizer.php:383
+msgid "Right"
+msgstr "Derecha"
+
+#: functions.php:111 functions.php:162
+#: inc/customizer/class-visualcomposerstarter-customizer.php:346
+#: inc/customizer/class-visualcomposerstarter-customizer.php:364
+#: inc/customizer/class-visualcomposerstarter-customizer.php:382
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions.php:110 functions.php:161
+msgid "None"
+msgstr "Ninguna"
+
+#: functions.php:107 functions.php:158
+msgid "Select specific sidebar position."
+msgstr "Selecciona la posición específica de la barra lateral."
+
+#: functions.php:104 functions.php:155
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: functions.php:100
+msgid "Page Options"
+msgstr "Opciones de página"
+
+#: functions.php:85
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:84
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#. translators: 1. link opening tag, 2. link opening tag, 3. link closing tag
+#: footer.php:105
+msgid "Proudly powered by %1$sVisual Composer%3$s and %2$sWordPress%3$s"
+msgstr "Funciona gracias a %1$sVisual Composer%3$s y %2$sWordPress%3$s"
+
+#. translators: 1. date, 2. blog name
+#: footer.php:102
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Todos los derechos reservados."
+
+#: comments.php:60
+msgid "Share Your Thoughts"
+msgstr "Comparte tus pensamientos"
+
+#: comments.php:54
+msgid "Leave A Comment"
+msgstr "Deja un comentario"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:31
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:23
+msgid "Join the discussion and tell us your opinion."
+msgstr "Únete a la conversación y cuéntanos tu opinión."
+
+#: comments.php:21
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: comments.php:21
+msgid "No Comment"
+msgstr "Sin comentarios"
+
+#: index.php:40 archive.php:47 search.php:46
+msgid "Page"
+msgstr "Página"
+
+#: index.php:34 archive.php:41 search.php:40
+msgid "Post navigation"
+msgstr "Navegación de entradas"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no hay nada en este lugar. ¿Y si pruebas con una búsqueda?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Lo sentimos! La página no existe."
+
+#. Author URI of the theme
+msgid "https://visualcomposer.com/"
+msgstr "https://visualcomposer.com/"
+
+#. Author of the theme
+msgid "The Visual Composer Team"
+msgstr "El equipo de Visual Composer"
+
+#. Theme URI of the theme
+msgid "https://visualcomposer.com/visual-composer-starter-theme/"
+msgstr "https://visualcomposer.com/visual-composer-starter-theme/"
