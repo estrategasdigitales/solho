@@ -15,7 +15,7 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  
+  <link href="//db.onlinewebfonts.com/c/3dd6e9888191722420f62dd54664bc94?family=Myriad+Pro" rel="stylesheet" type="text/css"/>
   <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>
 
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -44,10 +44,10 @@
           <a class="navbar-brand" href="<?php echo site_url(); ?>"><img src="<?php echo site_url(); ?>/wp-content/themes/visual-composer-starter-child/img/logo.png"></a>
         </div>
         <div class="col-md-6 col-xs-12 text-right iconossuperi"> 
-          <div class="col-md-9 col-sm-6 text-right">
+          <div class="col-md-8 col-sm-6 text-right">
             <?php echo do_shortcode('[yith_woocommerce_ajax_search]');?> 
           </div>
-        <div class="col-md-3 col-sm-6" style="padding: 0px">
+        <div class="col-md-4 col-sm-6" style="padding: 0px">
           <?php global $woocommerce; ?>
            <a class="carrosuperior" href="<?php echo $woocommerce->cart->get_cart_url(); ?>"
           title="<?php _e('Cart View', 'woothemes'); ?>">
@@ -61,7 +61,7 @@
   <a href="<?php echo get_permalink( get_option('woocommerce_myaccount_page_id') ); ?>" title="<?php _e('My Account','woothemes'); ?>"><?php _e('Mi cuenta','woothemes'); ?></a>
  <?php } 
  else { ?>
-  <a href="<?php echo get_permalink( get_option('woocommerce_myaccount_page_id') ); ?>" title="<?php _e('Login / Register','woothemes'); ?>"><?php _e('Login','woothemes'); ?></a>
+  <a href="<?php echo get_permalink( get_option('woocommerce_myaccount_page_id') ); ?>" title="<?php _e('Mi cuenta','woothemes'); ?>"><?php _e('Mi cuenta','woothemes'); ?></a>
  <?php } ?>
 
 

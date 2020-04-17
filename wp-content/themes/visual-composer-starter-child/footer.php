@@ -12,14 +12,14 @@ if ( visualcomposerstarter_is_the_footer_displayed() ) : ?>
 	<footer id="footer">	
 		<div class="row">
 			<div class="container">
-				<div class="col-md-4 text-center redesf2">
+				<div class="col-md-4 text-center redesf">
 					<a href="<?php echo site_url(); ?>/aviso-de-privacidad">Aviso de privacidad</a>
 				</div>
 				<div class="col-md-4 text-center redesf">
 					
 					
-					<a href=""><i class="fab fa-facebook-square" target="_blank"></i></a>
-					<a href=""  target="_blank"><i class="fab fa-instagram"></i></a>
+					Sitio desarrollado por <a href="">Estrategas Digitales</a>
+					
 					
 				</div>
 				

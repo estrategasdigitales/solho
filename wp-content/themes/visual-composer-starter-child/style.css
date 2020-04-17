@@ -14,61 +14,50 @@ Text Domain: visual-composer-starter-child
 .woocommerce div.product p.stock{
     display:none !important;
 }
-@font-face {
-    font-family: Nexa;
-    src: url("../../fonts/NexaRegular.otf") format("opentype");
-}
-@font-face {
-    font-family: NexaBold;
-    src: url("../../fonts/Nexa-Bold.otf") format("opentype");
-}
-@font-face {
-    font-family: NexaXBold;
-    src: url("../../fonts/Nexa-XBold.otf") format("opentype");
-}
 
+
+@font-face {font-family: "Myriad Pro"; src: url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.eot"); src: url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.woff") format("woff"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3dd6e9888191722420f62dd54664bc94.svg#Myriad Pro") format("svg"); }
 body,html,.vc_tta-title-text,p,span,input{
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
 }
 table.wp-list-table .column-name{
     width: 1px !important;
 }
 body{
-    background-color: #f0f0f0;
 }
 h1{
-    font-family: 'NexaBold', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
     font-size: 29px !important;
     margin-bottom: 5px !important;
     color: #000000 !important;
     font-weight: bold !important;
 }
 h2{
-    font-family: 'NexaBold', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
     font-size: 25px !important;
     font-weight: bold !important;
     color: #000000 !important;
     margin-bottom: 5px !important;
 }
 h2.dhvc-woo-title.dhvc-woo-clearfix,.woocommerce-loop-product__title{
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
 }
 h3{
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
     font-size: 18px !important;
     color: #000000 !important;
     font-weight: bold !important;
     margin-bottom: 5px !important;
 }
 h5{
-    font-family: 'Nexa', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
     font-size: 20px !important;
     color: #000000 !important;
     font-weight: bold !important;
     margin-bottom: 5px !important;
 }
 #newslet h1{
-    font-family: 'NexaXBold', sans-serif !important;
+    font-family: 'Myriad Pro', sans-serif !important;
     text-transform: uppercase;
     color: #ffff0a !important;
     margin-bottom: 20px !important;
@@ -151,7 +140,7 @@ body, #main-menu ul li ul li, .comment-content cite, .entry-content cite, html,#
     position: relative;
 }
 .navbar-brand img{
-width: 100px;
+    width: 136px;
 }
 .navbar-brand{
     padding: 0px;
@@ -163,6 +152,35 @@ width: 100px;
 }
 .navbar-brand{
     
+}
+#productoshome h3{
+	color:#0074c5 !important;
+	font-weight:bold !important;
+}
+#productoshome a{
+	width: 80%;
+    text-align: center;
+    background-color: #0074c5;
+    display: inline-block;
+    padding: 11px;
+    text-transform: capitalize !important;
+    color: #ffffff;
+}
+#porque span{
+	font-size:16px !important;
+}
+#sectores h3{
+	color:#bb092e !important;
+	    line-height: 1.8 !important;
+}
+#sectores .wpb_content_element{
+	margin-bottom:14px !important;
+}
+#sectores h3 img{
+	margin-right:7px !important;
+}
+h2{
+	margin-bottom:15px;
 }
 .navbar-default .navbar-nav>li>a{
 text-transform: uppercase;
@@ -176,6 +194,9 @@ text-transform: uppercase;
 }
 .navbar-toggle{
     display: block !important;
+}
+.wpb_content_element{
+	margin-bottom: 28px !important;
 }
 #principal .wpb_content_element,#contactanos .wpb_content_element{
     margin-bottom: 0px !important;
@@ -232,8 +253,8 @@ li.wc_payment_method{
 }
 input#yith-s{
     margin-bottom: 0px;
-    border: 1px solid #000000;
-    background: #ecaeaec4;
+    border: 1px solid #0074c5;
+    
     color: #000000;
 }
 button#yith-searchsubmit{
@@ -254,13 +275,13 @@ button#yith-searchsubmit{
     min-height: 58px;
 }
 #footer{
-    background-color: #bb092e !important;
+    background-color: #0074c5 !important;
     
     color: #000000;
     font-size: 19px;
 }
-#footer a{
-    color: #000000;
+#footer a,.redesf span,.redesf a{
+    color: #92a7cf !important;
 }
 .home-slider .wpb_content_element{
     margin-bottom: 0px !important;
@@ -296,7 +317,7 @@ button#yith-searchsubmit{
     height: auto;
 }
 .iconossuperi{
-    padding: 11px 0px;
+        padding: 18px 0px;
 }
 .iconossuperi a{
     margin: 0px 5px;
@@ -417,6 +438,7 @@ font-family: 'NexaXBold', sans-serif !important;
     padding: 0;
     clear: both;
 }
+
 .modal-content {
     background-color: transparent !important;
 }
@@ -429,6 +451,30 @@ font-family: 'NexaXBold', sans-serif !important;
     box-shadow: none;
   
     background-color: #320c4a;
+}
+h2::after {
+  content: "";
+    display: block;
+    width: 57px;
+    height: 5px;
+    background-color: #0074c5;
+    margin: 8px auto;
+}
+#porque h2::after {
+  content: "";
+    display: block;
+    width: 57px;
+    height: 5px;
+    background-color: #b4d9e6;
+    margin: 8px auto;
+}
+#sectores h2::after {
+  content: "";
+    display: block;
+    width: 57px;
+    height: 5px;
+    background-color: #bb092e;
+    margin: 8px auto;
 }
 .modal-header button.close {
     position: absolute;
@@ -483,9 +529,10 @@ font-family: 'NexaXBold', sans-serif !important;
     background: #389e23; 
 }
 .wpcf7-form span {
-    width: 60%;
+    width: 100%;
     display: inline-block;
     float: left;
+	
 }
 
 .botonbases{
@@ -497,12 +544,17 @@ font-family: 'NexaXBold', sans-serif !important;
     width: 40%;
     text-transform: uppercase;
 }
-.wpcf7-email{
-        color: #000000;
-    padding: 5px 30px;
+.wpcf7-submit{
+	margin-top:20px;
+	color:#0074c5;
+	background-color:#f6d83e;
+}
+.wpcf7-email,.wpcf7-form input,.wpcf7-form select{
+      color: #000000;
+    padding: 5px 8px;
     border: 0px;
-        font-size: 21px;
-   
+    font-size: 21px;
+    margin-bottom: 10px;
     width: 100%;
 }
 .iconos a,.iconosuy a{
@@ -622,6 +674,7 @@ input.wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf
 }*/
 .superioruno{
     background-color: #ffffff;
+	padding: 13px 0px;
 }
 .iconossuperi img{
  height: auto;
@@ -747,15 +800,17 @@ section.related.products > h2{
 }  
 .redesf{
     padding: 19px;
+    font-size: 13px;
+	color: #92a7cf !important;
 }
 .redesf p{
     font-weight: bold !important;
 }
 .redesf a{
-    font-size: 20px !important;
-    color: #ffffff !important;
-    background-color: red;
-    padding: 11px 10px 8px 10px;
+    
+    color: #92a7cf !important;
+        display: inline-block;
+    
     line-height: 1 !important;
     margin: 0px !important;
     border-radius: 25px;
@@ -839,9 +894,16 @@ a.button.wc-backward,button.single_add_to_cart_button.button.alt,.wcqb-preset.pr
 flex-flow: wrap;
 flex-direction: column-reverse;
 }
+	#productoshome a{
+		width:100%;
+		margin-bottom:30px;
+	}
 .content-wrapper {
     padding: 0px 25px;
 }
+	#sectores .vc_custom_1585955351920, #sectores .vc_custom_1585955358401{
+		padding-top:0px !important;
+	}
 #header .row{
     margin: 0px !important;
 }
@@ -1131,6 +1193,9 @@ flex-direction: column-reverse;
     .vc_row.wpb_row.vc_row-fluid.vc_custom_1531600707518.vc_row-has-fill {
             top: 334px;
     }
+	.redesf{
+		padding:0px !important;
+	}
 }
 @media (max-width: 320px) {
     .vc_row.wpb_row.vc_row-fluid.vc_custom_1531600707518.vc_row-has-fill {
