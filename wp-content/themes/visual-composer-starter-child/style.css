@@ -675,6 +675,7 @@ input.wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf
 .superioruno{
     background-color: #ffffff;
 	padding: 13px 0px;
+    border-bottom: 1px solid #e4e4e4;
 }
 .iconossuperi img{
  height: auto;
