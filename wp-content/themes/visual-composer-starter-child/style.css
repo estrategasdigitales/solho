@@ -704,7 +704,7 @@ input.wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf
     display: none;
 }
 strong{
-    font-family: 'NexaBold' !important;
+    
     font-weight: 400 !important;
 }
 #dhvc_woo_0eae42d20d .dhvc-woo-addtocart a,a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart, .checkout-button,.visualcomposerstarter .woocommerce .button[name=update_cart]{
@@ -722,7 +722,7 @@ strong{
     color: #000000;
 }
 .visualcomposerstarter.woocommerce div.product .product_title{
-   font-family: 'Nexa' !important;
+   
     font-size: 24px !important;
     display: inline-block;
     margin-bottom: 20px !important;
