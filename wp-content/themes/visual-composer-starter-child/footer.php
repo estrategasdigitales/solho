@@ -18,7 +18,7 @@ if ( visualcomposerstarter_is_the_footer_displayed() ) : ?>
 				<div class="col-md-4 text-center redesf">
 					
 					
-					Sitio desarrollado por <a href="">Estrategas Digitales</a>
+					Sitio desarrollado por <a href="https://estrategasdigitales.com/" target="_blank">Estrategas Digitales</a>
 					
 					
 				</div>
