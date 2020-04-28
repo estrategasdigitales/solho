@@ -1300,3 +1300,7 @@ ul.tabs.wc-tabs{
 .redesf2{
     padding: 19px;
 }
+button.single_add_to_cart_button.button.alt, .visualcomposerstarter .products .product .button.add_to_cart_button{
+    background-color: #27cbee !important;
+    font-family: 'Myriad Pro', sans-serif !important;
+}
