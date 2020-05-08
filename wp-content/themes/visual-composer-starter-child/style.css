@@ -1304,6 +1304,14 @@ button.single_add_to_cart_button.button.alt, .visualcomposerstarter .products .p
     background-color: #27cbee !important;
     font-family: 'Myriad Pro', sans-serif !important;
 }
+.visualcomposerstarter.woocommerce button.button, .visualcomposerstarter.woocommerce a.button.product_type_simple, .visualcomposerstarter.woocommerce a.button.product_type_grouped, .visualcomposerstarter.woocommerce a.button.product_type_variable, .visualcomposerstarter.woocommerce a.button.product_type_external, .visualcomposerstarter .woocommerce .buttons a.button.wc-forward, .visualcomposerstarter .woocommerce #place_order, .visualcomposerstarter .woocommerce .button.checkout-button, .visualcomposerstarter .woocommerce .button.wc-backward, .visualcomposerstarter .woocommerce .track_order .button, .visualcomposerstarter .woocommerce .vct-thank-you-footer a, .visualcomposerstarter .woocommerce .woocommerce-EditAccountForm .button, .visualcomposerstarter .woocommerce .woocommerce-MyAccount-content a.edit, .visualcomposerstarter .woocommerce .woocommerce-mini-cart__buttons.buttons a, .visualcomposerstarter .woocommerce .woocommerce-orders-table__cell .button, .visualcomposerstarter .woocommerce a.button, .visualcomposerstarter .woocommerce button.button, .visualcomposerstarter #review_form #respond .form-submit .submit{
+    background-color: #27cbee !important;
+    font-family: 'Myriad Pro', sans-serif !important;
+}
+#dhvc_woo_0eae42d20d .dhvc-woo-addtocart a, a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart, .checkout-button, .visualcomposerstarter .woocommerce .button[name=update_cart]{
+     background-color: #27cbee !important;
+    font-family: 'Myriad Pro', sans-serif !important;
+}
 .visualcomposerstarter .woocommerce-message, .visualcomposerstarter.woocommerce .woocommerce-message{
     background-color: #27cbee !important;
 }
