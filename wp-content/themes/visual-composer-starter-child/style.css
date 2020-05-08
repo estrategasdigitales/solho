@@ -1304,3 +1304,6 @@ button.single_add_to_cart_button.button.alt, .visualcomposerstarter .products .p
     background-color: #27cbee !important;
     font-family: 'Myriad Pro', sans-serif !important;
 }
+.woocommerce-message{
+    background-color: #27cbee !important;
+}
