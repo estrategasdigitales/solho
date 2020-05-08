@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EnvíaYa v1.9.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2019-11-05 12:38:39+0000\n"
+"Last-Translator: admin <huzv999@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin/enviaya-for-woocommerce-admin.php:1607
+#: admin/enviaya-for-woocommerce-admin.php:1612
+#@ woocommerce
+msgid "Zone name"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1608
+#@ woocommerce
+msgid "This is the name of the zone for your reference."
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1618
+#@ woocommerce
+msgid "Zone regions"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1619
+#@ woocommerce
+msgid "These are regions inside this zone. Customers will be matched against these regions."
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1623
+#@ woocommerce
+msgid "Select regions within this zone"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1643
+#@ woocommerce
+msgid "List 1 postcode per line"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1644
+#, php-format
+#@ woocommerce
+msgid "Postcodes containing wildcards (e.g. CB23*) or fully numeric ranges (e.g. <code>90210...99000</code>) are also supported. Please see the shipping zones <a href=\"%s\" target=\"_blank\">documentation</a>) for more information."
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:1653
+#@ woocommerce
+msgid "All Zones"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:2359
+#@ enviaya-for-woocommerce.php
+msgid " "
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:2433
+#@ enviaya-for-woocommerce.php
+msgid "Use dynamic service name"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:2434
+#@ enviaya-for-woocommerce.php
+msgid "Use standardized service name"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:2435
+#@ enviaya-for-woocommerce.php
+msgid "Use carrier service name"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:2549
+#@ default
+msgid "Set a location for this attachment"
+msgstr ""
+
+#: admin/enviaya-for-woocommerce-admin.php:2790
+#@ default
+msgid "Select your standard packaging"
+msgstr ""
+
+#: admin/helpers/hooks.php:9
+#@ enviaya-for-woocommerce.php
+msgid "Tracking"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#. translators: plugin header field 'Author'
+#: enviaya-for-woocommerce.php:0
+#@ enviaya-for-woocommerce.php
+msgid "EnvíaYa"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: enviaya-for-woocommerce.php:0
+#@ enviaya-for-woocommerce.php
+msgid "https://enviaya.com.mx/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: enviaya-for-woocommerce.php:0
+#@ enviaya-for-woocommerce.php
+msgid "An powerful plugin to rate multi-carrier shipment services and est. delivery dates during checkout, create shipment labels with one click and track."
+msgstr "An powerful plugin to rate multi-carrier shipment services and est. delivery dates during checkout, create shipment labels with one click and track."
+
+#. translators: plugin header field 'Version'
+#: enviaya-for-woocommerce.php:0
+#@ enviaya-for-woocommerce.php
+msgid "1.9.5"
+msgstr ""
+
+#: enviaya-for-woocommerce.php:318
+#: enviaya-for-woocommerce.php:333
+#@ default
+msgid "Enviaya"
+msgstr ""
+
+#: enviaya-for-woocommerce.php:350
+#@ default
+msgid "Personalize your store page by telling customers a little enviaya yourself."
+msgstr ""
+
+#: enviaya-for-woocommerce.php:452
+#@ dokan-lite
+msgid "You have no permission to view this page"
+msgstr ""
+
+#: enviaya-for-woocommerce.php:510
+#@ default
+msgid "Update Settings"
+msgstr ""
+
+#: includes/enviaya.php:156
+#@ enviaya-for-woocommerce.php
+msgid "Configuration"
+msgstr "Configuration"
+
+#: public/templates/cart-shipping.php:172
+#@ woocommerce
+msgid "There are no shipping methods available. Please ensure that your address has been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: public/templates/cart-shipping.php:174
+#@ woocommerce
+msgid "Enter your full address to see shipping costs."
+msgstr ""
+
+#: public/templates/order-details.php:35
+#@ woocommerce
+msgid "Order details"
+msgstr ""
+
+#: public/templates/order-details.php:41
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: public/templates/order-details.php:42
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: public/templates/order-details.php:77
+#@ woocommerce
+msgid "Note:"
+msgstr ""
+
+#: enviaya-for-woocommerce.php:19
+#@ domain
+msgid "Documentation"
+msgstr ""
+
+#: enviaya-for-woocommerce.php:20
+#@ domain
+msgid "Premium Support"
+msgstr ""
+
