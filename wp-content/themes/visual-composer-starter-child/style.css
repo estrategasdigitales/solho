@@ -452,7 +452,7 @@ font-family: 'NexaXBold', sans-serif !important;
   
     background-color: #320c4a;
 }
-h2::after {
+.home h2::after {
   content: "";
     display: block;
     width: 57px;
